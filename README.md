@@ -1,4 +1,5 @@
 # Twitter Clone UI + Backend
+##This clone not for mobiles / tablet
 
 This project is a full-stack Twitter clone built with modern web technologies. It replicates core functionalities of the Twitter platform, providing a seamless user experience.
 
